@@ -6,7 +6,9 @@ via [vpython](https://vpython.org/).
 
 ## Demo
 
-<!-- video goes here -->
+
+https://github.com/user-attachments/assets/9b072b72-94ea-4cdf-9d11-625bb8039e67
+
 
 ## Model
 
