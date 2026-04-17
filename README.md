@@ -14,7 +14,7 @@ Each piece stores:
 
 - `position` — integer vector in `{-1, 0, 1}^3`
 - `orientation` — 3x3 integer rotation matrix (identity when solved)
-- `colors` — mapping from *local* face normal to color name
+- `colors` — mapping from _local_ face normal to color name
 
 Because all face turns are 90° multiples, rotation matrices stay in
 `{-1, 0, 1}` — no floating-point drift across any sequence of moves.
